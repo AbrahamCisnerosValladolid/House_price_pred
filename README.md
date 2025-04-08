@@ -1,8 +1,6 @@
-# House pricing prediction in Bangalore
+# House Pricing Prediction with Linear Regression
 
 [Link to the proyect](https://github.com/AbrahamCisnerosValladolid/House_price_pred/blob/main/main.ipynb)
-
-# House Pricing Prediction with Linear Regression
 
 ## Overview  
 This project predicts house prices in Bengaluru, India, using **linear regression**. The dataset includes features like location, size, square footage, and amenities. The workflow covers data cleaning, preprocessing, exploratory analysis, and model building.
